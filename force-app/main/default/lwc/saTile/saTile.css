@@ -1,0 +1,12 @@
+:host {
+	--sds-c-card-color-background: linear-gradient(180deg, rgb(190, 214, 241) 80%, #7a787f 100%);
+}
+.sa-tile {
+	display: block;
+	border: 1px solid #5a539b;
+	border-radius: .25rem;
+	background-color: #71bfef;
+}
+.sa-silhouette {
+	height: 1000px;
+}
